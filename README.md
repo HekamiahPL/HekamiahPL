@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋, my name is Dawid
+#### A self-taught future junior software tester.
+I am a hardworking and well-organized person. My goal is to constantly improve my testing skills. Recently I get the ISTQB FL certificate, which is a confirmation of my knowledge in the field of software testing. I am also developing my programming skills. Feel free to visit my project repositories.
 
-<!--
-**HekamiahPL/HekamiahPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>TOOLS & TECHNOLOGIES </h3>
+- Jira </br>
+- SQL </br>
+- Test Link </br>
+- DevTools </br>
+- GIT / Github </br>
+- Postman </br>
+- HTML basic </br>
+- CSS basic </br>
+- C++ basic </br> </br> </br>
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://pl.linkedin.com/in/dawid-mielcarek)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekamiahPL)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/HekamiahPL)  
